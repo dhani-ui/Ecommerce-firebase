@@ -1,0 +1,17 @@
+
+frontend/node_modules/
+node_modules/
+
+
+backend/serviceAccountKey.json
+serviceAccountKey.json
+
+
+.env
+backend/.env
+frontend/.env
+
+
+frontend/build/
+frontend/dist/
+backend/server
